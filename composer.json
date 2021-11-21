@@ -1,0 +1,31 @@
+{
+    "description": "Laravel Blade slots inspired implementation for Neos Fusion.",
+    "type": "neos-package",
+    "name": "beromir/neos-slots",
+    "license": "GPL-3.0",
+    "keywords": [
+        "flow",
+        "neos"
+    ],
+    "require": {
+        "neos/neos": "^7.0",
+        "neos/flow": "*",
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Beromir\\Slots\\": "Classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Henrik Reißig",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "neos": {
+            "package-key": "Beromir.Slots"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+prototype(Beromir.Slots:Slots) {
+    @class = 'Beromir\\Slots\\FusionObjects\\Slots'
+    source = ${props.content}
+    target = ${value}
+}
