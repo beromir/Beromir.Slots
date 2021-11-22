@@ -3,6 +3,7 @@ Define slots in your components and pass content to fill them.
 Inspired by [Laravel Blade](https://laravel.com/docs/8.x/blade#slots).
 
 ## Installation
+Add `"beromir/neos-slots": "1.0.0-beta.2"` to your `composer.json` file.
 
 ## Requirements
 - PHP 8.0 and up
