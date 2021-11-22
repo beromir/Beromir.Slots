@@ -1,5 +1,5 @@
 {
-    "description": "Laravel Blade slots inspired implementation for Neos Fusion.",
+    "description": "Laravel Blade inspired slots in Neos Fusion.",
     "type": "neos-package",
     "name": "beromir/neos-slots",
     "license": "GPL-3.0",
