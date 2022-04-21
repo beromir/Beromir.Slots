@@ -8,7 +8,7 @@
         "neos"
     ],
     "require": {
-        "neos/neos": "^7.0",
+        "neos/neos": "^7.0 || ^8.0",
         "neos/flow": "*",
         "php": "^8.0"
     },
